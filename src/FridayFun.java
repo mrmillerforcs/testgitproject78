@@ -5,5 +5,7 @@ public class FridayFun {
         System.out.println("tomorrow is sat");
         System.out.println("yay candy");
         System.out.println("monday");
+        System.out.println("more stuff");
+        System.out.println("cool");
     }
 }
