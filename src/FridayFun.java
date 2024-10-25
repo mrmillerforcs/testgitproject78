@@ -11,5 +11,6 @@ public class FridayFun {
         System.out.println("123");
         System.out.println("another");
         System.out.println("another!!!");
+        System.out.println("commit and push!");
     }
 }
