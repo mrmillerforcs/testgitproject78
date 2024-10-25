@@ -9,5 +9,7 @@ public class FridayFun {
         System.out.println("cool");
         System.out.println("hello");
         System.out.println("123");
+        System.out.println("another");
+        System.out.println("another!!!");
     }
 }
